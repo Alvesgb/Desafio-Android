@@ -1,5 +1,7 @@
-Projeto android 
+Desafio - android 
 
-Curso HTML 5 e CSS 3 - CursoemVideo
+Tecnologias:
+HTML 5
+CSS 3
 
 Primeiro projeto finalizado no dia 15/01/2024
